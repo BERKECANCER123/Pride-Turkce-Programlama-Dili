@@ -1,0 +1,14 @@
+Program{
+
+Görkem
+Ahmet
+
+}
+Görkem{
+yaz " Ahmet "
+}
+Ahmet{
+yaz " ibo"
+}
+
+Sorunu düzelt

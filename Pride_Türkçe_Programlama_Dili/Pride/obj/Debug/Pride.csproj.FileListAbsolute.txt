@@ -1,0 +1,32 @@
+c:\users\hp\documents\visual studio 2015\Projects\Pride\Pride\bin\Debug\Pride.exe
+c:\users\hp\documents\visual studio 2015\Projects\Pride\Pride\bin\Debug\Pride.pdb
+c:\users\hp\documents\visual studio 2015\Projects\Pride\Pride\obj\Debug\Pride.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\Pride\Pride\obj\Debug\Pride.Form1.resources
+c:\users\hp\documents\visual studio 2015\Projects\Pride\Pride\obj\Debug\Pride.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\Pride\Pride\obj\Debug\Pride.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\Pride\Pride\obj\Debug\Pride.exe
+c:\users\hp\documents\visual studio 2015\Projects\Pride\Pride\obj\Debug\Pride.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\PrideFixit\Pride\bin\Debug\Pride.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\PrideFixit\Pride\bin\Debug\Pride.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\PrideFixit\Pride\obj\Debug\Pride.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\PrideFixit\Pride\obj\Debug\Pride.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\PrideFixit\Pride\obj\Debug\Pride.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\PrideFixit\Pride\obj\Debug\Pride.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\PrideFixit\Pride\obj\Debug\Pride.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\PrideFixit\Pride\obj\Debug\Pride.pdb
+C:\Users\HP\Desktop\PrideFixit_YEDEK\Pride\obj\Debug\Pride.exe
+C:\Users\HP\Desktop\PrideFixit_YEDEK\Pride\obj\Debug\Pride.pdb
+C:\Users\HP\Desktop\PrideFixit_YEDEK\Pride\bin\Debug\Pride.exe
+C:\Users\HP\Desktop\PrideFixit_YEDEK\Pride\bin\Debug\Pride.pdb
+C:\Users\HP\Desktop\PrideFixit_YEDEK\Pride\obj\Debug\Pride.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\PrideFixit_YEDEK\Pride\obj\Debug\Pride.Form1.resources
+C:\Users\HP\Desktop\PrideFixit_YEDEK\Pride\obj\Debug\Pride.Properties.Resources.resources
+C:\Users\HP\Desktop\PrideFixit_YEDEK\Pride\obj\Debug\Pride.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Pride_Türkçe_Programlama_Dili\Pride\obj\Debug\Pride.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Pride_Türkçe_Programlama_Dili\Pride\obj\Debug\Pride.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Pride_Türkçe_Programlama_Dili\Pride\bin\Debug\Pride.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Pride_Türkçe_Programlama_Dili\Pride\bin\Debug\Pride.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Pride_Türkçe_Programlama_Dili\Pride\obj\Debug\Pride.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Pride_Türkçe_Programlama_Dili\Pride\obj\Debug\Pride.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Pride_Türkçe_Programlama_Dili\Pride\obj\Debug\Pride.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Pride_Türkçe_Programlama_Dili\Pride\obj\Debug\Pride.csproj.GenerateResource.Cache
